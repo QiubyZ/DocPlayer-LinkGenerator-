@@ -17,4 +17,4 @@
 3. git clone https://github.com/QiubyZ/DocPlayer-LinkGenerator-
 4. cd DocPlayer-LinkGenerator-
 5. python install requirements.txt
-6. pyton main.py
+6. python main.py
